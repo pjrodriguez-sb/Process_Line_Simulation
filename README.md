@@ -1,2 +1,2 @@
-# Capstone_Project
-In this folder will be every data and document related to the Capstone Project of Springboard
+# Production Line Simulation
+I have been working with Production lines for three years seeking improvement opportunities. In this project, the process data is fictional to practice combining my new coding skills using Python and my engineering skills. In this project, I will investigate the current process of a production line using the cycle time, the downtime, and the downtime frequency. For this, I will apply concepts like subtracting data with Python, performing exploratory data analysis, identifying the level of relationship between features by using linear regression, and creating a simulation of the process using SimPy.
